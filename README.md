@@ -1,2 +1,2 @@
-# Applied-data-science-capstone
+# Coursera_Capstone
 Week 1
