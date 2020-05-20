@@ -1,1 +1,14 @@
+1. Background
 
+I am a senior that will graduate in few days. Although my graduation trip has been cancelled due to the outbreak of COVID-19, I
+am desired to go to California for graduate school in the future. I have been to Los Angeles for three times and I love the
+sunshine, the beach, and the vairous cuisines. I would like to know more about restaurants in LA county.
+
+The purpose of this project is to find safe restaurants in LA county and the most common health code ciolations in restaurants.
+With this project, I would have a better idea about the restaurants in LA county and know the safest area I could have food
+in the future. 
+
+2. Data Description and solution
+I found a dataset of LA County Restaurant Inspections and violations on Kaggle. It contains over 40,000 restaurants in 85 out of
+88 cities in LA County. The dataset is originally from Los Angeles County Enviornmental Health and it was last updated two years
+ago. 
